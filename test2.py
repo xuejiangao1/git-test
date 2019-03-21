@@ -1,4 +1,3 @@
-<<<<<<< .merge_file_a09048
 record_list = []
 record_id = 0
 
@@ -122,9 +121,3 @@ if __name__ == "__main__":
             continue
 
 
-
-=======
-print("hello world")
-print("hello  world")
-$
->>>>>>> .merge_file_a10128
